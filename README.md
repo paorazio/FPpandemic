@@ -20,9 +20,9 @@ Information is provided on the country, region, income level, date of the start 
 
 This database is used for the review of pandemic-related financial policies in 
 
-<b>
-D’Orazio, P. (2021). Towards a post-pandemic policy framework to manage climate-related financial risks and resilience. Climate Policy, 21(10), 1368-1382.
-</b>
+<b>D’Orazio, P. (2021). Towards a post-pandemic policy framework to manage climate-related financial risks and resilience. Climate Policy, 21(10), 1368-1382 </b>
+
+
 
 
 <b>HOW TO CITE?</b>
